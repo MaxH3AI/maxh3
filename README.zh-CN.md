@@ -15,6 +15,14 @@ Max H3 是独立的 AI 创作服务。本仓库帮助你明确主体、动作、
 | 选择动作或视觉风格 | [LoRA 选择指南](docs/choosing-a-lora.md) | [LoRA 集合](https://www.maxh3.com/minimax-h3-loras) |
 | 寻找创作起点 | [产品镜头示例](examples/product-video.md) | [提示词库](https://www.maxh3.com/prompts) |
 
+## Chrome 浏览器扩展
+
+收集网页参考素材、整理镜头方案，然后在 Max H3 继续创作。
+
+| 浏览器 | 官方商店页面 |
+| --- | --- |
+| Google Chrome | [Max H3 Shot Board for MiniMax H3 Max](https://chromewebstore.google.com/detail/max-h3-shot-board-for-min/jfbfpebbjflbbbjfokicpjkgppedfkbm) |
+
 ## 使用方式
 
 先确定一个短镜头要完成的动作，再选择输入方式。提交前，在工作区检查模型支持的输入、时长、分辨率和积分估算。生成后，记录最明显的问题，下次只调整一个变量。

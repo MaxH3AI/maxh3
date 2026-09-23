@@ -15,6 +15,14 @@ This repository helps you make a shot brief concrete: choose a source, describe 
 | A motion or visual-style goal | [Choosing a LoRA](docs/choosing-a-lora.md) | [MiniMax H3 LoRAs](https://www.maxh3.com/minimax-h3-loras) |
 | An idea that needs a clearer brief | [Product video example](examples/product-video.md) | [Prompt Library](https://www.maxh3.com/prompts) |
 
+## Chrome extension
+
+Collect web references, prepare a shot brief, and continue creating on Max H3.
+
+| Browser | Official store listing |
+| --- | --- |
+| Google Chrome | [Max H3 Shot Board for MiniMax H3 Max](https://chromewebstore.google.com/detail/max-h3-shot-board-for-min/jfbfpebbjflbbbjfokicpjkgppedfkbm) |
+
 ## A useful shot brief
 
 Write down these six decisions before generating:
