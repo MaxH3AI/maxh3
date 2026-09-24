@@ -6,6 +6,16 @@
 
 Max H3 是独立的 AI 创作服务。本仓库帮助你明确主体、动作、镜头和结尾画面，并通过每次只调整一个变量来比较生成结果。
 
+## 模型与创作工具
+
+在 Max H3 首页探索 [MiniMax H3](https://www.maxh3.com/) 与 [MiniMax H3 Max](https://www.maxh3.com/)，也可以直接打开以下功能页面。
+
+| 模型或工具 | 功能入口 |
+| --- | --- |
+| [MiniMax H3 Max Turbo](https://www.maxh3.com/minimax-h3-max-turbo) | 使用 Turbo 工作流，从文字或图片生成视频草稿。 |
+| [H3 Max Director](https://www.maxh3.com/h3-max-director) | 通过提示词实时引导视频场景，录制并保存片段。 |
+| [MiniMax H3 LoRA](https://www.maxh3.com/minimax-h3-loras) | 浏览动作与视觉风格 LoRA、查看示例并进入创作工作区。 |
+
 ## 从这里开始
 
 | 需求 | 仓库内指南 | 在线入口 |

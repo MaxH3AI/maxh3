@@ -6,6 +6,16 @@ Public documentation, original example briefs, and product feedback for [Max H3]
 
 This repository helps you make a shot brief concrete: choose a source, describe one readable action, plan the camera, and review the result before changing the next variable.
 
+## Models and creative tools
+
+Explore [MiniMax H3](https://www.maxh3.com/) and [MiniMax H3 Max](https://www.maxh3.com/) on the Max H3 homepage, or open a dedicated workflow below.
+
+| Model or tool | What to explore |
+| --- | --- |
+| [MiniMax H3 Max Turbo](https://www.maxh3.com/minimax-h3-max-turbo) | Create video drafts from text or images with the Turbo workflow. |
+| [H3 Max Director](https://www.maxh3.com/h3-max-director) | Direct a live video scene with prompts, then record and save a take. |
+| [MiniMax H3 LoRA](https://www.maxh3.com/minimax-h3-loras) | Browse motion and visual-style LoRAs, review examples, and open a workspace. |
+
 ## Start with a workflow
 
 | Your starting point | Read in this repository | Open the workspace |
