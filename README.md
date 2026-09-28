@@ -33,11 +33,11 @@ Collect web references, prepare a shot brief, and continue creating on Max H3.
 | --- | --- |
 | Google Chrome | [Max H3 Shot Board for MiniMax H3 Max](https://chromewebstore.google.com/detail/max-h3-shot-board-for-min/jfbfpebbjflbbbjfokicpjkgppedfkbm) |
 
-## Official Mirrors
+## Community & Documentation
 
 GitHub is the primary home for Max H3's public documentation and product feedback. We also maintain the public documentation repositories below. Shared guides are synchronized manually, while each platform has its own introduction and additional examples or workflow notes. These repositories contain documentation only; production source code and credentials remain private.
 
-| Platform | Official mirror |
+| Platform | Documentation repository |
 | --- | --- |
 | GitLab | [maxh3ai/maxh3](https://gitlab.com/maxh3ai/maxh3) |
 | Bitbucket | [maxh3ai/maxh3](https://bitbucket.org/maxh3ai/maxh3/src/main/) |

@@ -33,11 +33,11 @@ Max H3 是独立的 AI 创作服务。本仓库帮助你明确主体、动作、
 | --- | --- |
 | Google Chrome | [Max H3 Shot Board for MiniMax H3 Max](https://chromewebstore.google.com/detail/max-h3-shot-board-for-min/jfbfpebbjflbbbjfokicpjkgppedfkbm) |
 
-## 官方镜像仓库
+## 社区与文档
 
 GitHub 是 Max H3 公开文档与产品反馈的主仓库。我们也维护以下公开文档仓库：共用指南手动同步，各平台保留独立的介绍、补充案例或工作流说明。这些仓库仅包含公开文档，生产源码与密钥不会在其中发布。
 
-| 平台 | 官方镜像仓库 |
+| 平台 | 文档仓库 |
 | --- | --- |
 | GitLab | [maxh3ai/maxh3](https://gitlab.com/maxh3ai/maxh3) |
 | Bitbucket | [maxh3ai/maxh3](https://bitbucket.org/maxh3ai/maxh3/src/main/) |
