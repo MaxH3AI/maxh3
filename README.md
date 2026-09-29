@@ -44,6 +44,10 @@ GitHub is the primary home for Max H3's public documentation and product feedbac
 | Tangled | [followcloud.tngl.sh/maxh3](https://tangled.org/followcloud.tngl.sh/maxh3) |
 | GitCode | [2501_92380024/maxh3](https://gitcode.com/2501_92380024/maxh3) |
 | Gitee | [following-the-clouds/maxh3](https://gitee.com/following-the-clouds/maxh3) |
+| Gitea | [kiraplane/maxh3](https://gitea.com/kiraplane/maxh3) |
+| Disroot | [kiraplane/maxh3](https://git.disroot.org/kiraplane/maxh3) |
+| Launchpad | [~followcloud/+git/maxh3](https://code.launchpad.net/~followcloud/+git/maxh3) |
+| Codeberg | [kiraplane/maxh3](https://codeberg.org/kiraplane/maxh3) |
 
 ## A useful shot brief
 

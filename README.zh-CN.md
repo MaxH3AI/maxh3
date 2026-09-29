@@ -44,6 +44,10 @@ GitHub 是 Max H3 公开文档与产品反馈的主仓库。我们也维护以�
 | Tangled | [followcloud.tngl.sh/maxh3](https://tangled.org/followcloud.tngl.sh/maxh3) |
 | GitCode | [2501_92380024/maxh3](https://gitcode.com/2501_92380024/maxh3) |
 | Gitee | [following-the-clouds/maxh3](https://gitee.com/following-the-clouds/maxh3) |
+| Gitea | [kiraplane/maxh3](https://gitea.com/kiraplane/maxh3) |
+| Disroot | [kiraplane/maxh3](https://git.disroot.org/kiraplane/maxh3) |
+| Launchpad | [~followcloud/+git/maxh3](https://code.launchpad.net/~followcloud/+git/maxh3) |
+| Codeberg | [kiraplane/maxh3](https://codeberg.org/kiraplane/maxh3) |
 
 ## 使用方式
 
